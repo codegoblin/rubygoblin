@@ -1,6 +1,8 @@
 = rubygoblin
 
-A collection of methods I find convenient =) 
+A collection of methods I find convenient =).
+
+NOT MUCH IN HERE YET. This is an ongoing process ...
 
 == Copyright
 
