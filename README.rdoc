@@ -6,7 +6,8 @@ NOT MUCH IN HERE YET. This is an ongoing process ...
 
 TODO:
 - [false, true].sample
-- 
+- rand that takes a range
+
 == Copyright
 
 Copyright (c) 2011 Cody Marshall Johnston. See LICENSE.txt for
