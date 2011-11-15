@@ -7,6 +7,7 @@ NOT MUCH IN HERE YET. This is an ongoing process ...
 TODO:
 - [false, true].sample
 - rand that takes a range
+- def to_bool(val); !!val; end; 
 
 == Copyright
 
