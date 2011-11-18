@@ -7,4 +7,9 @@ class Object
   def in?(enum)
     enum.include?(self)
   end
+
+  # Casts the passed in object to a boolean value.
+  def to_bool(obj)
+    !!obj
+  end
 end
