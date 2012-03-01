@@ -9,7 +9,7 @@ class Object
   end
 
   # Casts the passed in object to a boolean value.
-  def to_bool(obj)
-    !!obj
+  def to_bool
+    !!self
   end
 end
