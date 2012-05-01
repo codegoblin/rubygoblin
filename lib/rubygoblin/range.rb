@@ -1,3 +1,3 @@
 class Range
-  alias :includes? :include
+  alias :includes? :include?
 end
