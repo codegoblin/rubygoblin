@@ -1,3 +1,3 @@
 class Array
-  alias :includes? :include
+  alias :includes? :include?
 end
