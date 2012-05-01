@@ -1,3 +1,3 @@
 class Enumerable
-  alias :includes? :include
+  alias :includes? :include?
 end
