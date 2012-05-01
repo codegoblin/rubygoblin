@@ -1,3 +1,3 @@
 class Module
-  alias :includes? :include
+  alias :includes? :include?
 end
